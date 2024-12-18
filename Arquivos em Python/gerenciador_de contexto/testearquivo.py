@@ -1,0 +1,5 @@
+f=open('arquivo.txt','w')
+f.write('oi tudo bom\n')
+f.write('Posso falar com você?\n')
+f.write('Sobre aquele relatório\n')
+f.close()
